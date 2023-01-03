@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../proyecto-c08/proyecto-c08"
+		},
+		{
+			"path": "../../../11/posicionamiento"
+		},
+		{
+			"path": "../../../14/contenedores"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../modelos/gym-website-template"
+		},
+		{
+			"path": "../../../../modelos/grid-vs-flexbox-codigo_base"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap-1"
+	}
+}

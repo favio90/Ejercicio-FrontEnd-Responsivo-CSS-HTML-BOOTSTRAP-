@@ -1,0 +1,41 @@
+/* @media  screen and (max-width: 768px) {
+   
+    #primera-foto {
+      width: 50% ; 
+      opacity: 1 ;   
+      }
+  
+  
+  } */
+
+.caja{
+
+    position:relastive ;
+    display: -block;
+}
+
+
+.texto2{
+position: absolute;
+bottom: 30%;
+right: 10%;
+font-size: 16px;
+color: white;
+
+}
+
+.texto1{
+
+position: absolute;
+
+}
+
+
+  #primera-foto {
+
+    width: 100%;
+    height: auto;
+    
+    
+  
+  }
